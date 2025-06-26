@@ -9,7 +9,7 @@ How to Access Your Juno Login Account Easily? 📬💻
 
 In today’s world, checking your email is part of the daily routine—just like grabbing your morning coffee. ☕ Whether you're catching up with friends, confirming appointments, or receiving important updates, your email plays a central role. For long-time users, **Juno** has been a familiar and reliable email service. But sometimes, even the most familiar routines can throw us a curveball—like being unable to sign into your **juno login account**. 😅
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
